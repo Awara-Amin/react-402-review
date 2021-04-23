@@ -1,2 +1,2 @@
-# react-402-review
+# react-402
 Created with CodeSandbox
